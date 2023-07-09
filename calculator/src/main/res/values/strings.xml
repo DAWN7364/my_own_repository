@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="simple_caluculator">简单计算器</string>
+</resources>

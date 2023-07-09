@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:orderInCategory="0"
+        android:id="@+id/navigation_music"
+        android:icon="@drawable/music_navi"
+        android:title="音乐" />
+    <item
+        android:orderInCategory="1"
+        android:id="@+id/navigation_note"
+        android:icon="@drawable/note_navi"
+        android:title="笔记" />
+    <item
+        android:orderInCategory="2"
+        android:id="@+id/navigation_my"
+        android:icon="@drawable/my_navi"
+        android:title="我的" />
+</menu>
+
